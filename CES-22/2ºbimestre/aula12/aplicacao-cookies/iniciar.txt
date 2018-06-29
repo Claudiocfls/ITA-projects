@@ -1,9 +1,0 @@
-como iniciar:
-
-. venv/bin/activate
-
-entra na pasta venv:
-
-export FLASK_APP=routes.py
-flask run
-
