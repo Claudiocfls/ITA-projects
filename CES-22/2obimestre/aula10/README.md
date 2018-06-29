@@ -2,5 +2,5 @@
 
 <h4> Funcionamento </h4>
 
-(https://github.com/Claudiocfls/ITA-projects/tree/master/CES-22/2obimestre/aula10/screenshots/chat.png "funcionamento do chat")
+![print do chat multiusuário](https://github.com/Claudiocfls/ITA-projects/tree/master/CES-22/2obimestre/aula10/screenshots/chat.png "funcionamento do chat")
 
