@@ -37,15 +37,3 @@ if __name__ == '__main__':
     carro2= fabrica.criarCarroSedan()
     carro.get_info()
     carro2.get_info()
-
-
-
-
-
-
-
-
-
-
-
-
